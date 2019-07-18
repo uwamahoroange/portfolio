@@ -1,0 +1,40 @@
+body{
+    background-image:url("https://scontent.fnbo7-1.fna.fbcdn.net/v/t1.0-0/p206x206/24131306_1915622715418698_5545692841592896905_n.jpg?_nc_cat=109&_nc_oc=AQnBI5-sgU6gWG_143RXgtKAvSNX-BkyqmUQxoBAk8dUD4gQ-WlJp5YD84RxKu7cn9o&_nc_ht=scontent.fnbo7-1.fna&oh=456e99b97fc212bd682b5082818eaaa4&oe=5DEC0DF0");
+ font-size:40px;
+ width:10px;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+main {
+    background-color: rgba(232, 235, 239, 0.3);
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+p{
+    magin:20px;
+    flaot:right;
+    list-style:none;
+}
+h{justify-content:space-between;
+    display:felix;
+}
+li{
+    display:inline;
+    badding:20pxmain {
+        background-color: rgba(232, 235, 239, 0.3);
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+      }
+}
+nav {
+    float: left;
+    width: 30%;
+    height: 300px; /* only for demonstration, should be removed */
+    /* background: #ccc; */
+    padding: 20px;
+    text-decoration: none;
+    text-align: center;
+}
